@@ -31,17 +31,21 @@ This is written from the perspective of someone who has spent years working in t
 4. Install Node Version Manager (nvm): `brew install nvm`
 
    * If using Homebrew to install doesn't work for you, I found this link to be helpful (https://blog.adriaan.io/macos-sierra-broke-my-git.html or http://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
-   * Verify that your .bash_profile file has been modified with a pointer to your nvm directory. Something similar to the following  
-     `export NVM_DIR="$HOME/.nvm"  
-     . "/usr/local/opt/nvm/nvm.sh"`
+   * Verify that your .bash_profile file has been modified with a pointer to your nvm directory. Something similar to the following
+   
+     `export NVM_DIR="$HOME/.nvm"`
+    
+      `. "/usr/local/opt/nvm/nvm.sh"`
   
    * You may need to restart your terminal or open another window in order to get nvm. You can verify by running `nvm --version`
   
 5. Install Ruby (verify which version you should install for your project): `rbenv install your.version.here` (i.e. `rbenv install 2.4.2`)
 
-    * Verify that your .bash_profile file has been modified with a pointer to your Ruby environment. 
-      `export PATH="$HOME/.rbenv/bin:$PATH"
-       eval "$(rbenv init -)"`
+    * Verify that your .bash_profile file has been modified with a pointer to your Ruby environment.
+    
+      `export PATH="$HOME/.rbenv/bin:$PATH"`
+    
+      `eval "$(rbenv init -)"`
        
 6. Install Node (verify which version you should install for your project): `nvm install your.version.here` (i.e. `nvm install 6.10.2`)
 
