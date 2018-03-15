@@ -1,3 +1,4 @@
 - https://theleaddeveloper.com/
 - https://ti.to/adorable/madison-ruby-chicago
 - https://techinclusion.co
+- https://werise.tech/
