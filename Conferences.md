@@ -1,2 +1,3 @@
-https://theleaddeveloper.com/
-https://ti.to/adorable/madison-ruby-chicago
+- https://theleaddeveloper.com/
+- https://ti.to/adorable/madison-ruby-chicago
+- https://techinclusion.co
