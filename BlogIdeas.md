@@ -16,6 +16,15 @@
 - approaching color theory as a developer
 - mentorship after bootcamp
 - how to improve as a developer if all you have is personal projects
+- the team's iterative approach to how we write user stories
+  - how that affects PRs
+  - how that affects ACs
+- alphabet soup of dev life
+  - be aware of which acronyms clients may not be familiar with
+- using suitcss (or any oo css)
+- learning Vue.js
+- agile product development: tech _and_ design
+- how walking my dog makes me a better programmer
 
 ##### Writing for work
 purpose of the blog
