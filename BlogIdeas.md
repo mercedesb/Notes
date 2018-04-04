@@ -28,8 +28,9 @@ technical how-to blog post
 length
 - 500 words (SEO plug in)
 
-how did this solve a client problem
-why is a consultant better suited than internal technical team
+Other ideas
+- how did this solve a client problem
+- why is a consultant better suited than internal technical team
 
 spelling, grammar, context
 
