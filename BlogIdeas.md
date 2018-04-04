@@ -14,6 +14,8 @@
 - finding your flow
 - team balance and Gretchen Rubin's 4 tendencies
 - approaching color theory as a developer
+- mentorship after bootcamp
+- how to improve as a developer if all you have is personal projects
 
 ##### Writing for work
 purpose of the blog
