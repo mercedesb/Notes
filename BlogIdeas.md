@@ -25,6 +25,7 @@
 - learning Vue.js
 - agile product development: tech _and_ design
 - how walking my dog makes me a better programmer
+- unfamiliar terms common in different meetings
 
 ##### Writing for work
 purpose of the blog
