@@ -5,9 +5,9 @@
   - Mentors: how to code review, how to give feedback
   - Mentees: how to PR, good commit structure, how to receive feedback
 - Mentors RSVP for slot (2 weeks before meetup?)
-- Open up 1 mentee slot per RSVP-ed mentor 
-  - PR in rsvp
-  - Can submit repo to start?
+- Open up 1 mentee slot per RSVP-ed mentor (1 week before meetup?)
+  - PR included with rsvp
+  - Can mentee submit repo to start?
   - If repo submitted, does the mentor make a PR with comments?
 - Mentor has a week to review and comment
 - During the hour meetup, mentor should review all comments with mentee
@@ -19,6 +19,7 @@
   - would like 2 hours in the space
   - food/drink would be appreciated
   - 10 minutes to talk about your company (if you want)
+  - partner with other meetups? (don't want to step on their toes)
   
   ## Accountability
   - RSVP
@@ -29,5 +30,8 @@
   ## Outreach
   - reach out to bootcamps
     - Northwestern
+    - Dev Bootcamp
+    - Starter League
+    - General Assembly
     - ...
     
