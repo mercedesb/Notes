@@ -4,6 +4,7 @@
 - 30 min training pre-meetup for first time attendees
   - Mentors: how to code review, how to give feedback
   - Mentees: how to PR, good commit structure, how to receive feedback
+- No standing commitment to be mentor/mentee, more ad hoc and based on RSVPs
 - Mentors RSVP for slot (2 weeks before meetup?)
 - Open up 1 mentee slot per RSVP-ed mentor (1 week before meetup?)
   - PR included with rsvp
