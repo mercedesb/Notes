@@ -26,6 +26,19 @@
 - agile product development: tech _and_ design
 - how walking my dog makes me a better programmer
 - unfamiliar terms common in different meetings
+- why does personal and professional development have to be different?
+- consulting is a daily practice in 'choose your own adventure'
+- I care that you can learn not that you know
+  - why I don't care what front end framework you know
+  - learning syntax isnt the same as learning to solve problems
+- the balance of learn by doing vs trial by fire
+- interface based polymorphism
+- inheritance vs composition
+- git merge vs rebase
+- source control for clients
+- continuous integrtion vs continuous deployment
+- code comments
+- how to write a good unit test
 
 ##### Writing for work
 purpose of the blog
