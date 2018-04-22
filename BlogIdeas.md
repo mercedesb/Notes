@@ -24,7 +24,7 @@
 - using suitcss (or any oo css)
 - learning Vue.js
 - agile product development: tech _and_ design
-- how walking my dog makes me a better programmer
+- ~how walking my dog makes me a better programmer~
 - unfamiliar terms common in different meetings
 - why does personal and professional development have to be different?
 - consulting is a daily practice in 'choose your own adventure'
