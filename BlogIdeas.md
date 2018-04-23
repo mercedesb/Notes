@@ -40,6 +40,7 @@
 - code comments
 - how to write a good unit test
 - why you should put all of your code in Git
+- ~user story writing~
 
 ##### Writing for work
 purpose of the blog
