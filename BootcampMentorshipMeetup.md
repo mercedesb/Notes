@@ -36,3 +36,8 @@
     - General Assembly
     - ...
     
+  ## Other ideas to cover
+  - What to expect from your first job(s)
+  - Small group reviews 
+    - volunteer some code to review as a small group (2-3 people)
+    - great for those who don't have enough code since the last session to PR but still want to learn what to look for 
