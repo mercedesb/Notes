@@ -1,3 +1,5 @@
+#Working Name: Developing Together 
+
 ## Structure
 - Once per month meetup
 - 1 hour for code review feedback, troubleshooting, pairing, etc
@@ -36,8 +38,13 @@
     - General Assembly
     - ...
     
-  ## Other ideas to cover
+  ## Other ideas
   - What to expect from your first job(s)
   - Small group reviews 
     - volunteer some code to review as a small group (2-3 people)
     - great for those who don't have enough code since the last session to PR but still want to learn what to look for 
+  - Micro talks
+    - 5 min
+    - Have a list of ideas to start (library evaluation, short cool demo, I'm exploring this tech and what I've discovered so far, emacs/vim, etc)
+    - open to mentors and mentees alike
+    
