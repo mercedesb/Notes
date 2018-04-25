@@ -2,6 +2,10 @@
 
 ## Structure
 - Once per month meetup
+- Mentors get a sheet with resources for doing good code reviews
+  - links
+  - what to look for
+  - what feedback is good for people at the mentee's level, what feedback goes over their head and is too much
 - 1 hour for code review feedback, troubleshooting, pairing, etc
 - 30 min training pre-meetup for first time attendees
   - Mentors: how to code review, how to give feedback
