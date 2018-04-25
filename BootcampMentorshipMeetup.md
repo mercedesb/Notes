@@ -1,4 +1,4 @@
-#Working Name: Developing Together 
+# Working Name: Developing Together 
 
 ## Structure
 - Once per month meetup
