@@ -57,4 +57,4 @@ TODO
     
 ## Meetup Page content
 TODO
-- Need to create Code of Conduct
+- Need to create Code of Conduct: http://citizencodeofconduct.org/
