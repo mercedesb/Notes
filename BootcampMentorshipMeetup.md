@@ -1,7 +1,9 @@
 # Working Name: Developing Together 
 
 ## Elevator Pitch
-TODO
+Recently graduated from college or a coding bootcamp? Looking to land your first tech job? How do you continue to improve your technical skills after graduation? Web tutorials are a good first step for syntax but for higher level code design and architecture skills, coaching and mentorship is the best way to learn.
+
+Technical and want to accelerate your promotion into management? Looking for low-commitment opportunities for guided mentorship practice? There are tons of new developers hungry for your perspective and feedback, come share your knowledge in a once monthly code review.
 
 ## Structure
 - Once per month meetup
