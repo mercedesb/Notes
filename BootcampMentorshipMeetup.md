@@ -21,20 +21,20 @@
   - explain comments, teach concepts, etc
   - if time permits, pair with mentee to implement some of the feedback
   
-  ## Sponsorship
+## Sponsorship
   - have contact info on Meetup page for sponsorship
   - would like 2 hours in the space
   - food/drink would be appreciated
   - 10 minutes to talk about your company (if you want)
   - partner with other meetups? (don't want to step on their toes)
   
-  ## Accountability
+## Accountability
   - RSVP
   - Refundable $5 fee?
     - if you show up, you get your money back
     - if you no-show, we donate your $5 to some tech related charity in the city (charity TBD)
     
-  ## Outreach
+## Outreach
   - reach out to bootcamps
     - Northwestern
     - Dev Bootcamp
@@ -42,7 +42,7 @@
     - General Assembly
     - ...
     
-  ## Other ideas
+## Other ideas
   - What to expect from your first job(s)
   - Small group reviews 
     - volunteer some code to review as a small group (2-3 people)
