@@ -2,7 +2,7 @@
 
 ## Structure
 - Once per month meetup
-- Mentors get a sheet with resources for doing good code reviews
+- Mentors get a sheet with [resources for doing good code reviews](./CodeReviewResources.md)
   - links
   - what to look for
   - what feedback is good for people at the mentee's level, what feedback goes over their head and is too much
