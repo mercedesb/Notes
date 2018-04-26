@@ -1,5 +1,8 @@
 # Working Name: Developing Together 
 
+## Elevator Pitch
+TODO
+
 ## Structure
 - Once per month meetup
 - Mentors get a sheet with [resources for doing good code reviews](./CodeReviewResources.md)
@@ -52,3 +55,5 @@
     - Have a list of ideas to start (library evaluation, short cool demo, I'm exploring this tech and what I've discovered so far, emacs/vim, etc)
     - open to mentors and mentees alike
     
+## Meetup Page content
+TODO
