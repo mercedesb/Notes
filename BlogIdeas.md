@@ -16,9 +16,9 @@
 - approaching color theory as a developer
 - mentorship after bootcamp
 - how to improve as a developer if all you have is personal projects
-- the team's iterative approach to how we write user stories
-  - how that affects PRs
-  - how that affects ACs
+- ~the team's iterative approach to how we write user stories~
+  - ~how that affects PRs~
+  - ~how that affects ACs~
 - alphabet soup of dev life
   - be aware of which acronyms clients may not be familiar with
 - using suitcss (or any oo css)
@@ -40,7 +40,6 @@
 - code comments
 - how to write a good unit test
 - why you should put all of your code in Git
-- ~user story writing~
 
 ##### Writing for work
 purpose of the blog
