@@ -41,6 +41,7 @@
 - how to write a good unit test
 - why you should put all of your code in Git
 - programmatic Darwinism
+- Everything I learned about consulting, I learned from a hair salon and a preschool
 
 ##### Writing for work
 purpose of the blog
