@@ -8,40 +8,50 @@
 - How Reframing the problem increases retention of URM in tech
 
 ### Random thoughts and stray observations
+
+#### Technical
+- using suitcss (or any oo css)
+- learning Vue.js
+- interface based polymorphism
+- inheritance vs composition
+- git merge vs rebase
+- source control for clients
+- continuous integration vs continuous deployment
+- code comments
+- how to write a good unit test
+- why you should put all of your code in Git
+
+#### Tech related
 - how to learn web design when you don't want to be a designer
-- balancing humility and imposter syndrome
-- identifying and living your values in the workplace
-- finding your flow
-- team balance and Gretchen Rubin's 4 tendencies
 - approaching color theory as a developer
 - mentorship after bootcamp
 - how to improve as a developer if all you have is personal projects
 - ~the team's iterative approach to how we write user stories~
   - ~how that affects PRs~
   - ~how that affects ACs~
-- alphabet soup of dev life
-  - be aware of which acronyms clients may not be familiar with
-- using suitcss (or any oo css)
-- learning Vue.js
-- agile product development: tech _and_ design
-- ~how walking my dog makes me a better programmer~
 - unfamiliar terms common in different meetings
-- why does personal and professional development have to be different?
+  - be aware of which acronyms clients may not be familiar with
+- agile product development: tech _and_ design
+- programmatic Darwinism
+
+#### Business/Consulting
+- identifying and living your values in the workplace
+- team balance and Gretchen Rubin's 4 tendencies
 - consulting is a daily practice in 'choose your own adventure'
+- Blog series about borrowing knowledge/practices from other disciplines
+  - Consulting, hair salon
+  - Consulting, preschool
+  - Estimating/project planning, road construction
+  
+#### Other
+- balancing humility and imposter syndrome
+- finding your flow
+- ~how walking my dog makes me a better programmer~
+- why does personal and professional development have to be different?
 - I care that you can learn not that you know
   - why I don't care what front end framework you know
   - learning syntax isnt the same as learning to solve problems
 - the balance of learn by doing vs trial by fire
-- interface based polymorphism
-- inheritance vs composition
-- git merge vs rebase
-- source control for clients
-- continuous integrtion vs continuous deployment
-- code comments
-- how to write a good unit test
-- why you should put all of your code in Git
-- programmatic Darwinism
-- Everything I learned about consulting, I learned from a hair salon and a preschool
 
 ##### Writing for work
 purpose of the blog
