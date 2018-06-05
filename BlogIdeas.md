@@ -33,6 +33,8 @@
   - be aware of which acronyms clients may not be familiar with
 - agile product development: tech _and_ design
 - programmatic Darwinism
+- code review feedback
+- pairing and its benefits
 
 #### Business/Consulting
 - identifying and living your values in the workplace
