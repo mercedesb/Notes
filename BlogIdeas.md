@@ -42,8 +42,8 @@
 - consulting is a daily practice in 'choose your own adventure'
 - Blog series about borrowing knowledge/practices from other disciplines
   - Consulting, hair salon
-  - Consulting, preschool
-  - Estimating/project planning, road construction
+  - ~Consulting, preschool~
+  - ~Estimating/project planning, road construction~
   
 #### Other
 - balancing humility and imposter syndrome
