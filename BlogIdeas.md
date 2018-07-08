@@ -18,6 +18,11 @@
 - code comments
 - how to write a good unit test
 - why you should put all of your code in Git
+- Why VSCode
+- Unit testing React/Vue
+- Learning design patterns
+  - The power of refactoring
+- Dating profiles of the design patterns (23 patterns)
 
 #### Tech related
 - how to learn web design when you don't want to be a designer
@@ -42,6 +47,8 @@
   - Consulting, hair salon
   - ~Consulting, preschool~
   - ~Estimating/project planning, road construction~
+- Effectively moderates meetings
+- Feedback as a skill
   
 #### Other
 - ~Writing a Crochet Pattern is like Writing Code~
@@ -53,6 +60,8 @@
   - why I don't care what front end framework you know
   - learning syntax isnt the same as learning to solve problems
 - the balance of learn by doing vs trial by fire
+- Learning about the problems of bootcamps
+
 
 ##### Writing for work
 purpose of the blog
