@@ -1,15 +1,13 @@
 # Blog Ideas
 
-### Needs to be written
-- Writing a Crochet Pattern is like Writing Code
-- ~Learning a dynamically typed language from a statically typed background~
-
 ### Needs more research
 - How Reframing the problem increases retention of URM in tech
 
 ### Random thoughts and stray observations
 
 #### Technical
+
+- ~Learning a dynamically typed language from a statically typed background~
 - using suitcss (or any oo css)
 - learning Vue.js
 - interface based polymorphism
@@ -46,6 +44,7 @@
   - ~Estimating/project planning, road construction~
   
 #### Other
+- ~Writing a Crochet Pattern is like Writing Code~
 - balancing humility and imposter syndrome
 - finding your flow
 - ~how walking my dog makes me a better programmer~
